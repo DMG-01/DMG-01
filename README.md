@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Agboola olorunfemi divine 
 - 👀 I’m a fullstack web3 Developer {smart contract developer,  backend developer, frontend developer}
-- 🌱 my frequently used languages are solidity,javascript
+- 🌱 my frequently used languages are solidity,javascript, typescript,react
 - 💞️ I’m looking to collaborate on lots of Blockchain and Backend projects
 -  email address agboolafemi03@gmail.com
 
